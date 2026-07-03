@@ -1,0 +1,10 @@
+.credentials
+!.credentials.example
+.env
+*.log
+.DS_Store
+.halt
+logs/
+data/
+/btc
+/monitor-test
