@@ -1,6 +1,6 @@
 # btc
 
-Bitcoin bull-market watcher and weekday long-entry daemon for **OANDA practice** (`BTC_USD`).
+Go daemon that watches for a Bitcoin bull market and can open weekday long entries on **OANDA practice** (`BTC_USD`).
 
 Two phases:
 
