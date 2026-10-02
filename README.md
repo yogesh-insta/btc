@@ -1,5 +1,10 @@
 # btc
 
+**Stack:** Go, OANDA
+
+**Skills:** Market data, trading automation
+
+
 Go daemon that watches for a Bitcoin bull market and can open weekday long entries on **OANDA practice** (`BTC_USD`).
 
 Two phases:
